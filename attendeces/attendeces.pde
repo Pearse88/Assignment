@@ -9,7 +9,7 @@ void setup()
   loadData();
   insertAverages();
   
-  
+  //loads the image onto the sketch
   crestImage = loadImage("celtic_logo.jpg");
   fansImage = loadImage("photobhoy.jpg");
 }
@@ -171,21 +171,16 @@ void loadData()
   }
 }
 
-
-
 void displayMenu()
 {
   
   background(0, 128, 0);
   image(crestImage,220, 80, 200,200);
   fill(0);
-  textSize(16);
-  textAlign(CENTER,CENTER);
-  text("Make a selection on the options below",325,350);
-  line(500,370,140,370);
-  text("1. To see Average Attendances between 1980 - 2014", 325, 390);
-  text("2. To see the difference in Attendance since rangers fc got relegated", 325, 410);
-  text("0. To go back to Title page", 325, 430);
+  textSize(18);
+  text("Press 1 to see Average Attendances between 1980 - 2014", 600,350);
+  
+  
 }
 
 void displayGraph()
