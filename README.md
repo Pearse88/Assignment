@@ -23,6 +23,17 @@ Being a massive Celtic supporter as I am, alot has been made of the drop in atte
 User Instructions
 </br>
 When the sketch is first executed the user will be met by a title page from here they can navigate their way through each data visulization.  If the user select 1 they will be brought to a trend line graph that shows the average attendances since 1980.  If the user enters 2 they will be met by a picture of the Celtic F.C fans.  I have not yet coded in anymore visulizations as stated in Changes and Improvements above.
+
+EDITED
+Since my last submission there have been some changes to the sketch. The user is still met with the same opening screen as senn in the screenshot below.
+
+
+
+Changes
+
+As stated above in my first submission I have made some changes although I did not stick to the changes first  outlined. I have however entered another visulization to my sketch.  The reason for the change, is because i felt that the previous visulization showed how the attendances have dropped in the last five years.
+The new visulization that is present on my sketch, is a breakdown of the fan base worldwide, the fanbase is broke down into continents.  You will see in the user instructions some screen shots of how the final sketch turned out.
+
 </br>
 
 References
